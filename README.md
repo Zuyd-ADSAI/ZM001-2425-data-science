@@ -6,7 +6,7 @@ Minor Data Science notebooks and resources in English
 
 Open a terminal and clone this repository using [git](https://git-scm.com/)
 ```bash
-git clone git@github.com:Janko-dev/ZM001-2425-data-science.git
+git clone git@github.com:Zuyd-ADSAI/ZM001-2425-data-science.git
 ```
 
 Navigate into the cloned folder
